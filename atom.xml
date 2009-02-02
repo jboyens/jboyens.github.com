@@ -5,10 +5,10 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>JR Boyens</title>
- <link href="http://fooninja.org/atom.xml" rel="self"/>
- <link href="http://fooninja.org/"/>
+ <link href="http://jboyens.github.com/atom.xml" rel="self"/>
+ <link href="http://jboyens.github.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://fooninja.org/</id>
+ <id>http://jboyens.github.com/</id>
  <author>
    <name>JR Boyens</name>
    <email>jboyens@fooninja.org</email>
@@ -17,7 +17,7 @@ layout: nil
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://fooninja.org{{ post.url }}"/>
+   <link href="http://jboyens.github.com{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>http://fooninja.org{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
