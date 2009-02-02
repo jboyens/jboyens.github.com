@@ -3,3 +3,10 @@ layout: default
 title: Trying out hacker blogging
 ---
 
+p. I've been thinking about blogging some more and I really didn't want to go through the hassle of dealing with setting up some blogging software. I've even WRITTEN blogging software (See "Elephant":http://svn.rifers.org/elephant/trunk) before and I didn't want to deal with it. Either I'm really lazy or the state of software today favors complexity instead of thinking of existing systems in new ways.
+
+p. I had just left the thoughts, frustrations, and comments well up inside. I've lost more ideas than I care to count. So, I had to do something. Then "Tom Preston-Werner":http://tom.preston-werner.com wrote a post about "Blogging Like a Hacker":http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html. Initially, I was a little confused, but it seemed cool. I threw it off for a time and went about my business. My mind kept coming back to it though. I enjoyed the idea that you could use the filesystem, Git and GitHub (more on that later) in such a way. It seemed so clean, so light, so… perfect.
+
+p. I've got a GitHub account, but most of the stuff I write, is, of course, owned by my employer, "ChaCha Search":http://www.chacha.com. As such, my GitHub account is very bare. I've only thrown one project up there that I didn't spend more than an hour or so on. Still, I love they way the way that GitHub works and storing my blog in a Git repository (which is by far the most incredible source control on the planet) seemed too cool to pass up.
+
+p. So here I am. I tiny voice in an ocean of content. I don't know if this will be useful to any one but it lets me express myself.
