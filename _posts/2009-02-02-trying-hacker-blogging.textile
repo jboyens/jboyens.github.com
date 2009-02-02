@@ -9,6 +9,6 @@ p. I had just left the thoughts, frustrations, and comments well up inside. I've
 
 p. I've got a GitHub account, but most of the stuff I write, is, of course, owned by my employer, "ChaCha Search":http://www.chacha.com. As such, my GitHub account is very bare. I've only thrown one project up there that I didn't spend more than an hour or so on. Still, I love they way the way that GitHub works and storing my blog in a Git repository (which is by far the most incredible source control on the planet) seemed too cool to pass up.
 
-p. So here I am. I tiny voice in an ocean of content. I don't know if this will be useful to any one but it lets me express myself.
+p. So here I am. One tiny voice in an ocean of content. I don't know if this will be useful to any one but it lets me express myself.
 
 fn1. If you didn't notice, I used Tom's templates and CSS to build my own blog here. I plan on changing it, but it helps to stand on someone else's shoulders.
