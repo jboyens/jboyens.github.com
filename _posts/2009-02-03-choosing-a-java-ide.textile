@@ -3,12 +3,27 @@ layout: default
 title: Choosing a Java IDE
 ---
 
+h1. Choosing a Java IDE
+
 p. Ahh. Java IDEs. They make life easier. I couldn't imagine living without the ability to refactor easily, or to see all of the methods a class exposes. No matter your position on IDEs, you can agree that a good editor is a tool that no developer should be without.
 
-p. I've looked around and, as I see it, there are three IDEs in the Java space (in no particular order): Eclipse, IntelliJ IDEA, and Netbeans. Eclipse and Netbeans are free and open-source, IDEA is not.
+p. I've looked around and, as I see it, there are three IDEs in the Java space (in no particular order): Eclipse, IntelliJ IDEA, and Netbeans. Eclipse and Netbeans are free and open-source, IDEA is not. I've tried each on and off for a number of years. I can't really decide which one I like. IDEA has the features, Netbeans has the speed and stability and Eclipse just has inertia. 
 
+h2. Eclipse
 
+p. Eclipse is only still around because people use it. People use it because others in their team use it and there is just no real good wait to interoperate. So it's a vicious circle. I think it's safe to say that no one actually LIKES Eclipse. Things like: the magic incantations that you have to do to get files from the filesystem noticed properly at times, the brain-dead locking of project types at creation, and the general slowness of the IDE on anything except Windows. I'm hoping that eventually it collapses under the weight of the maintenance of SWT and all the Eclipse devs run towards Netbeans.
 
+p. That said, Eclipse is really the grand-pappy of Java IDEs. It's got the most users and the most plugins. It works well enough most of the time and when all you're doing is working with text in a single editor pane, it's plenty fast.
+
+h2. NetBeans
+
+p. NetBeans is truly up and coming. The NB guys have put a lot of hard work into building a very stable and very sound framework to hang all sorts of awesome off of. The biggest complaint I have about Netbeans is the fact that Ant is used as the project configuration store. Really? Ant? This is a great idea for starting projects w/ Netbeans, but it really falls apart with existing projects. I get it, I do. You'll have a way to build JARs and such the same way as your IDE does, etc. But that's just not how things work. Everyone has their own Ant/Maven/Homebrew scripts as it is. You're not getting value out of doing it this way.
+
+h2. IntelliJ IDEA
+
+p. IDEA is really a great product that needs to stop focusing on features for two cycles. They need a heavy bugfix cycle and then a performance improvement cycle. Do that and IDEA is a top-notch IDE I would pay double it's current price for. Right now, the bugs and performance issues are pretty insidious. Like Eclipse, IDEA can get itself in a state where you have to start waving wands and trying magic words. I spent nearly five hours one day fighting a weird state. In the end I just deleted IDEA's caches, restarted, and waited for it to re-index the world. It was back to normal, but it's frustrating.
+
+p. Jetbrains has a great EAP program that lets you work with preview releases of their IDE for free. I'm betting a great number of developers take advantage of this.
 
 Thoughts:
 
