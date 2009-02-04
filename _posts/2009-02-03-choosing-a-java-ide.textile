@@ -1,0 +1,36 @@
+---
+layout: default
+title: Choosing a Java IDE
+---
+
+p. Ahh. Java IDEs. They make life easier. I couldn't imagine living without the ability to refactor easily, or to see all of the methods a class exposes. No matter your position on IDEs, you can agree that a good editor is a tool that no developer should be without.
+
+p. I've looked around and, as I see it, there are three IDEs in the Java space (in no particular order): Eclipse, IntelliJ IDEA, and Netbeans. Eclipse and Netbeans are free and open-source, IDEA is not.
+
+
+
+
+Thoughts:
+
+IDEA:
+* slow
+* pricey
+* GREAT inspections
+* Good integration with technologies
+* Responsive to bugs
+* Good EAP program
+* Odd drive caching that seems to beat the crap out of HDs
+
+Netbeans:
+* Fast
+* Uses ANT for everything
+* Lags behind significantly
+* More stable
+* Run by Sun
+
+Eclipse:
+* SWT
+* SLOW on anything that isn't Windows
+* Buggy
+* De-facto starting point
+* Lots of plugins
