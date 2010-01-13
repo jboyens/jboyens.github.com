@@ -10,6 +10,18 @@ title: JR Boyens
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+
+  <h1>Where I work</h1>
+  <ul class="posts">
+  	<li>"ChaCha Search Inc.":http://www.chacha.com</li>
+  </ul>
+
+  <h1>Where I have worked</h1>
+  <ul class="posts">
+  	<li>"Interactions Corporation":http://www.interactions.net</li>
+  	<li>"UWYN bvba/sprl":http://www.uwyn.com</li>
+  	<li>numerous other now bought-out / missing startups</li>
+  </ul>
  
   <h1>Open Source Projects</h1>
   <ul class="posts">
