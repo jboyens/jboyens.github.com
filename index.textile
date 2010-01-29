@@ -31,3 +31,4 @@ title: JR Boyens
   </ul>
 </div>
   
+<script type="text/javascript" src="http://feeds.delicious.com/v2/js/jboyens?title=My%20Delicious%20Bookmarks&count=5&bullet=%C2%BB&sort=date&tags&extended&name&showadd"></script>
