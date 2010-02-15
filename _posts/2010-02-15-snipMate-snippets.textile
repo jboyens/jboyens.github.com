@@ -1,0 +1,10 @@
+---
+layout: default
+title: GitHub repo for groovy snipMate snippets
+---
+
+p. I've forked the snipMate snippets "repo":http://github.com/scrooloose/snipmate-snippets and created "mine":http://github.com/jboyens/snipmate-snippets
+
+p. I've added some basic snippets that I used daily, mostly for "groovy":http://groovy.codehaus.org, "grails":http://www.grails.org, and "spock":http://www.spockframework.org
+
+p. Maybe someday I have the main repo pull once it's cleaned up a little
