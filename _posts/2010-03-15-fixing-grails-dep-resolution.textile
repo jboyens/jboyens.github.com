@@ -1,0 +1,22 @@
+---
+layout: default
+title: Fixing Grails Dependency Resolution
+---
+
+p. In Grails 1.2 an Ivy dependency resolution DSL was added to
+BuildConfig.groovy that allowed you to specify your dependency resolution in
+Groovy.
+
+p. This was good.
+
+p. The problem was, it doesn't support Maven classifiers.
+
+p. This is bad.
+
+p. I've looked at the DSL implementation and I don't think it's really that
+hard to add it and I'm going to try my hand at fixing it in the next few days,
+but in the meantime, I've come up with a workaround.
+
+p. The workaround (really hacky I may add) is below:
+
+<script src="http://gist.github.com/333354.js?file=fix-grails-classifiers.groovy"></script>
